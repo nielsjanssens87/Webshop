@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webshop", "Webshop\Webshop.csproj", "{9686245E-F5EF-481A-A84A-EE0ADE2D214A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Viewmodels", "Viewmodels", "{6657B381-C581-4387-B4F5-238F69ACF60F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Views", "Views", "{2DCD384D-82BF-4C6E-A2FD-0F907BF7CFB0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{A5A00803-DCCA-4BB4-A91E-E48D61E357D5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repository", "Repository", "{5C2B73EE-BE65-4971-BDB5-BA5F286F443A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{8C7971CA-31F8-45B3-A196-8E223F3F8445}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9686245E-F5EF-481A-A84A-EE0ADE2D214A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9686245E-F5EF-481A-A84A-EE0ADE2D214A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9686245E-F5EF-481A-A84A-EE0ADE2D214A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9686245E-F5EF-481A-A84A-EE0ADE2D214A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2781274E-5861-4F4B-8496-8453D23EADE1}
+	EndGlobalSection
+EndGlobal
